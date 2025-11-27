@@ -10,7 +10,7 @@ Mary's Project
 My project allows me to practice Git.
 
 ### Files used
-Include the files used
+nyc bike share data
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
