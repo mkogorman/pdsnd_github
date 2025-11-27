@@ -7,7 +7,7 @@
 Mary's Project
 
 ### Description
-Describe what your project is about and what it does
+My project allows me to practice Git.
 
 ### Files used
 Include the files used
